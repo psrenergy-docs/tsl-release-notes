@@ -2,7 +2,7 @@ title: "Time Series Lab release notes"
 remote_theme: psrenergy/just-the-docs
 logo: assets/images/psr_logo.png
 
-psr_model: "Time Series Lab"
+psr_model: "TSL"
 
 toc:
   - title: Current version
