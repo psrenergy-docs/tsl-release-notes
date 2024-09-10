@@ -26,7 +26,7 @@ zoom_img_enabled: true
 change_color_enabled: true
 color_scheme: "dark"
 
-url: "https://timeserieslab-release-notes.psr-inc.com"
+url: ""
 
 back_to_top: true
 back_to_top_text: "Back to top"
