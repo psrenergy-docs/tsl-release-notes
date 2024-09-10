@@ -1,8 +1,23 @@
-title: "PSR docs template"
+title: "Time Series Lab release notes"
 remote_theme: psrenergy/just-the-docs
 logo: assets/images/psr_logo.png
 
-psr_model: "PSR docs"
+psr_model: "Time Series Lab"
+
+toc:
+  - title: Current version
+    subfolderitems:
+      - page: Time Series Lab 2.1
+        url: /timeserieslab2.1
+  - title: Older versions
+    subfolderitems:
+      - page: Time Series Lab 2.0
+        url: /timeserieslab2.0
+      - page: Time Series Lab 1.1
+        url: /timeserieslab1.1
+      - page: Time Series Lab 1.0
+        url: /timeserieslab1.0
+
 
 #adding zoom in images
 zoom_img_enabled: true
@@ -11,6 +26,8 @@ zoom_img_enabled: true
 change_color_enabled: true
 color_scheme: "dark"
 
+url: "https://timeserieslab-release-notes.psr-inc.com"
+
 back_to_top: true
 back_to_top_text: "Back to top"
-footer_content: "Copyright &copy; 2022 PSR - <a href='https://www.psr-inc.com' target='_blank'>psr-inc.com</a>"
+footer_content: "Copyright &copy; <script>document.write(new Date().getFullYear())</script> PSR - <a href='https://www.psr-inc.com' target='_blank'>psr-inc.com</a>"
