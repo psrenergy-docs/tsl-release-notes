@@ -37,6 +37,6 @@ nav_order: 4
 * TSL-Data
   * Added support to the new version of the MERRA2 reanalysis database (the old version is not supported anymore)
   * Added the possibility to associate solar plants with hourly correction profiles
-* GUI
+* IHM
   * Added a specific button to generate the probability distribution for the renewable generation
   * Added, in the execution parameter screen, the available years in the reanalysis database

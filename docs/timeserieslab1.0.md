@@ -3,6 +3,18 @@ title: "Time Series Lab 1.0"
 nav_order: 5
 ---
 
+# Time Series Lab 1.0.21
+
+📅 Date: 2020-10-27<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-1.0.21-setup.zip)
+
+## New features and improvements
+
+* IHM
+  * Changed logic with the generation of probability distribution graphs (now the user must push a button to generate it)
+  * Fixed an error in the importation of custom turbines
+
 # Time Series Lab 1.0.20
 
 📅 Date: 2020-07-08<br>
