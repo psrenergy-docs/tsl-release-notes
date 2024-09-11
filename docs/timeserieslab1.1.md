@@ -1,6 +1,6 @@
 ---
 title: "Time Series Lab 1.1"
-nav_order: 2
+nav_order: 4
 ---
 
 # Time Series Lab 1.1.2
