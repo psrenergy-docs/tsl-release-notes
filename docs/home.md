@@ -18,20 +18,14 @@ The release notes of the current and all previous official versions are just for
 # Previous versions
 
 * Version 2.0
-  * 📅 Released on: December 2022
-  * 🌐 [Release site](@@@@@)
-  * 📖 Release notes ([Eng](@@@@@) \| [Esp](@@@@@) \| [Por](@@@@@))
-  * 📝 [Detailed changelog](@@@@@)
+  * 📅 Released on: June 2022
+  * 📝 [Detailed changelog](timeserieslab2.0.md)
 * Version 1.1
-  * 📅 Released on: December 2022
-  * 🌐 [Release site](@@@@@)
-  * 📖 Release notes ([Eng](@@@@@) \| [Esp](@@@@@) \| [Por](@@@@@))
-  * 📝 [Detailed changelog](@@@@@)
+  * 📅 Released on: June 2021
+  * 📝 [Detailed changelog](timeserieslab1.1.md)
 * Version 1.0
-  * 📅 Released on: December 2022
-  * 🌐 [Release site](@@@@@)
-  * 📖 Release notes ([Eng](@@@@@) \| [Esp](@@@@@) \| [Por](@@@@@))
-  * 📝 [Detailed changelog](@@@@@)
+  * 📅 Released on: March 2020
+  * 📝 [Detailed changelog](timeserieslab1.0.md)
 
 
 # Support or contact
