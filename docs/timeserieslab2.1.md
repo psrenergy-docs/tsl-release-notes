@@ -9,7 +9,7 @@ nav_order: 2
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.1.3-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error related to the encoding of the case folder name
@@ -24,7 +24,7 @@ nav_order: 2
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.1.2-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error related to custom turbines with wake-effect option turned on
@@ -40,7 +40,7 @@ nav_order: 2
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.1.1-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error when running TSL with a subset of selected stations
@@ -58,8 +58,3 @@ nav_order: 2
 
 Please refer to the [Time Series Lab 2.1 Release notes](http://psr-energy.com/software/timeserieslab-2.1.html) and check out the most important features
 developed on this release.
-
-## New features and improvements
-
-@@@
-

@@ -9,9 +9,9 @@ nav_order: 5
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-1.0.21-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
-* IHM
+* GUI
   * Changed logic with the generation of probability distribution graphs (now the user must push a button to generate it)
   * Fixed an error in the importation of custom turbines
 
@@ -21,9 +21,9 @@ nav_order: 5
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-1.0.20-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
-* IHM
+* GUI
   * Removed the generation of the synthetic probability distribution graphic. The reason is that this functionality was taking too long for small cases, and we will improve it before releasing it again
 
 # Time Series Lab 1.0.19
@@ -32,9 +32,9 @@ nav_order: 5
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-1.0.19-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
-* IHM
+* GUI
   * Fixed the monthly probability distribution graphic
   * Fixed a bug with the legend of the graphics in the TSL-Scenarios screen
   * Fixed a bug related to the scale of the graphics

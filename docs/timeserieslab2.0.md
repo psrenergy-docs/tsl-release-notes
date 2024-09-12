@@ -9,7 +9,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.17-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Scenarios
   * Fixed an error related to the historical scenarios option (the interface was incompatible with the model)
@@ -22,7 +22,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.16-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error related to the path of 7z library
@@ -35,7 +35,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.15-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error when using custom wind speed data directly without the need reanalysis databases
@@ -46,7 +46,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.14-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error related to the latitude angle of solar panels when it has 1-axis tracking
@@ -58,7 +58,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.13-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Scenarios
   * Fixed an error related to the identification of the number of years present in the historical data (for weekly cases), causing the last historical year to not be considered (then, synthetic scenarios are used for the this year).
@@ -77,6 +77,8 @@ nav_order: 3
 * TSL-Scenarios
   * Added the output "tsl_historical_years.csv" containing the years and hour of the year used for each stage/serie/hour of the horizon in the case of historical scenarios
 
+## Fixed Bugs
+
 * TSL-Data
   * Fixed an error related to the license check driver
 
@@ -91,6 +93,8 @@ nav_order: 3
 * TSL-Data
   * Allows the user to select a different folder to store the custom turbines configuration files
 
+## Fixed Bugs
+
 * TSL-Scenarios
   * Fixed an error related to the external user-defined inflow data consideration
 
@@ -100,7 +104,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.10-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Scenarios
   * Fixed an error with the scenario per block to csv functionality
@@ -111,7 +115,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.9-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error with CSP generation when the UTC is positive
@@ -122,7 +126,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.8-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Scenarios
   * Fixed an error with the scenarios file when the case has weekly stages
@@ -133,7 +137,7 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.7-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Data
   * Fixed an error when trying to search the country of each defined coordinate in the case
@@ -153,13 +157,18 @@ nav_order: 3
   * Improved the efficiency of the scenarios generation process
   * Remove useless warnings from the execution log
 
+## Fixed Bugs
+
+* IHM
+  * Fixed an error in the custom turbines screen (there was an error when trying to add new turbines)
+
 # Time Series Lab 2.0.5
 
 📅 Date: 2022-10-04<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.5-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
 * TSL-Scenarios
   * Fixed an error related to the historical scenarios option. The model was generating scenarios higher than 1 p.u, even it the historical data doesn't have any value greater than 1 p.u
@@ -205,13 +214,13 @@ nav_order: 3
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.1-setup.zip)
 
-## New features and improvements
+## Fixed Bugs
 
-* IHM
+* GUI
   * Fixed an error when opening cases with transmission network
 
 # Time Series Lab 2.0
 
-📅 Date: 2022-06-08<br>
+📅 Date: 2020-06-13<br>
 🔗 Download:
 [Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.0.0-setup.zip)
