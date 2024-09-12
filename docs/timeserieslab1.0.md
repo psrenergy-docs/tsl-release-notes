@@ -14,6 +14,10 @@ nav_order: 5
 * GUI
   * Changed logic with the generation of probability distribution graphs (now the user must push a button to generate it)
   * Fixed an error in the importation of custom turbines
+  * Fixed the name of the version in the interface
+
+* Reanalysis database reader
+  * Fixed an error while reading the range of date available in the reanalysis database
 
 # Time Series Lab 1.0.20
 
