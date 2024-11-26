@@ -3,6 +3,25 @@ title: "Time Series Lab 2.1"
 nav_order: 2
 ---
 
+# Time Series Lab 2.1.4
+
+📅 Date: 2024-09-07<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.1.4-setup.zip)
+
+## Fixed Bugs
+
+* TSL-Data
+  * Allow execution of the case examples without license
+
+* IHM
+  * Fixed an error related to the selection of CSPs in the select stations screen
+
+## New Features
+
+* IHM
+  * Added the iFeedback module
+
 # Time Series Lab 2.1.3
 
 📅 Date: 2024-07-01<br>
