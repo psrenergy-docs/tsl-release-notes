@@ -3,6 +3,23 @@ title: "Time Series Lab 2.1"
 nav_order: 2
 ---
 
+# Time Series Lab 2.1.5
+
+📅 Date: 2025-05-15<br>
+🔗 Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.1.5-setup.zip)
+
+## Fixed Bugs
+
+* TSL-Data
+  * Fix errors related to special characters in plant name
+  * Fixed an error related to deleting plants that have associated custom wind speed points
+  * Added a validation to guarantee that the horizon matches the available historical years in the reanalysis database
+  * Fixed an error related to GHI output data
+
+* IHM
+  * Fixed an error related to the SDDP path in the settings screen
+
 # Time Series Lab 2.1.4
 
 📅 Date: 2024-09-07<br>
