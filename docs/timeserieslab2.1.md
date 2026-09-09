@@ -3,6 +3,38 @@ title: "Time Series Lab 2.1"
 nav_order: 2
 ---
 
+# Time Series Lab 2.1.6
+
+:date: Date: 2026-09-09<br>
+:link: Download:
+[Windows](https://www.psr-inc.com/app/link/?t=d&f=timeserieslab-2.1.6-setup.zip)
+
+## Fixed Bugs
+
+* TSL-Data
+  * Fixed the correction profile for cases with multiple solar plants sharing a common station
+  * Fixed an error caused by positive UTC values
+  * Fixed an error in the addition of turbine curves
+  * Fixed a minor solar correction bug
+  * Fixed custom wind results being skipped in output files
+  * Minor warning message improvements
+  * Additional protections and robustness
+  * Trial license now allows up to 10 renewables (was 5) and custom turbine addition
+
+* TSL-Scenarios
+  * Fixed Markov and DLR behavior when renewable generation is not represented
+  * Fixed DLR scenario generation for weekly resolution
+  * Fixed Markov cluster-transition sampling being triggered for non-Markov mode
+  * Improved the renewable validation process
+
+## New Features
+
+* TSL-Data
+  * Added additional DLR outputs
+
+* TSL-Scenarios
+  * Updated the climate change add-in (CMIP6 download flow)
+
 # Time Series Lab 2.1.5
 
 📅 Date: 2025-05-15<br>
