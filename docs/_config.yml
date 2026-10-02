@@ -7,10 +7,12 @@ psr_model: "TSL"
 toc:
   - title: Current version
     subfolderitems:
-      - page: Time Series Lab 2.1
-        url: /timeserieslab2.1
+      - page: Time Series Lab 2.3
+        url: /timeserieslab2.3
   - title: Older versions
     subfolderitems:
+      - page: Time Series Lab 2.1
+        url: /timeserieslab2.1
       - page: Time Series Lab 2.0
         url: /timeserieslab2.0
       - page: Time Series Lab 1.1

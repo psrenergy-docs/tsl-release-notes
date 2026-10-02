@@ -11,12 +11,15 @@ The release notes of the current and all previous official versions are just for
 # Current version
 
 * Version 2.1
-  * 📅 Release date: March 2024
-  * 🌐 [Release site](http://psr-energy.com/software/timeserieslab-2.1.html)
-  * 📝 [Detailed changelog](timeserieslab2.1.md)
+  * 📅 Release date: October 2026
+  * 🌐 [Release site](http://psr-energy.com/software/timeserieslab-2.3.html)
+  * 📝 [Detailed changelog](timeserieslab2.3.md)
 
 # Previous versions
 
+* Version 2.1
+  * 📅 Released on: March 2024
+  * 📝 [Detailed changelog](timeserieslab2.1.md)
 * Version 2.0
   * 📅 Released on: June 2022
   * 📝 [Detailed changelog](timeserieslab2.0.md)
